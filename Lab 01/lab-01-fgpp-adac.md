@@ -3,6 +3,7 @@ Lab 01 – Fine-Grained Password Policy (FGPP) using ADAC
 Objective
 
 To apply different password policies to specific groups or users using Active Directory Administrative Center (ADAC) and verify their effect with PowerShell.
+So I had to create dummy users and O/Us for this specific purpose.
 
 ---
 Lab Setup
